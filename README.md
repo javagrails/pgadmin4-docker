@@ -99,3 +99,11 @@ More information on pgAdmin 4 development can be found here;
 
 Issues and feature requests can be reported on GitHub;
 https://github.com/thaJeztah/pgadmin4-docker
+
+
+## ME
+http://tleyden.github.io/blog/2017/06/14/running-postgresql-in-docker/
+
+https://hub.docker.com/r/dpage/pgadmin4/
+
+https://undebugable.wordpress.com/2017/04/10/pgadmin-setting-up-pgadmin4-on-ubuntu-linux-using-docker/
